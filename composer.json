@@ -1,0 +1,13 @@
+{
+    "name": "Wordpress/Wordpress",
+    "type": "wordpress-plugin",
+    "description": "Wordpress core",
+    "keywords": ["Wordpress","composer"],
+    "homepage": "https://github.com/WordPress/WordPress.git",
+    "authors": [
+        {
+            "name": "Wordpress",
+            "homepage": "http://wordpress.org"
+        }
+    ]
+}
